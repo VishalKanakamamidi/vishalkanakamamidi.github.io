@@ -35,7 +35,7 @@ projects:
   # hackerrank: your_username
   # instagram: your_username
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: https://www.linkedin.com/in/vishal-kanakamamidi-218742170/
   # mastodon: your_username
   # medium: your_username
   # stackoverflow: your_user_id
@@ -43,13 +43,13 @@ projects:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
-  # youtube: your_username
+  website: https://vishalkanakamamidi.github.io/
+  youtube: https://www.youtube.com/channel/UCzHbVG0LxRRNTY8ZJbHKZOA?view_as=subscriber
 
 topics:
   - name: Keras
     web_url: https://github.com/keras-team/keras
-    image_url: https://s3.amazonaws.com/keras.io/img/keras-logo-2018-large-1200.png
+    image_url: https://upload.wikimedia.org/wikipedia/commons/c/c9/Keras_Logo.jpg
 
   - name: OpenCV
     web_url: https://github.com/opencv/opencv
