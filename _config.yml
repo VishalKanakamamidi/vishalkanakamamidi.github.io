@@ -55,7 +55,7 @@ topics:
     web_url: https://github.com/opencv/opencv
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png
 
-  - name: Tensorflow
+  - name: TensorfloW
     web_url: https://github.com/tensorflow/tensorflow
     image_url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TensorFlowLogo.svg/2000px-TensorFlowLogo.svg.png
     
